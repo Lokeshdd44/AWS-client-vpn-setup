@@ -13,5 +13,5 @@ Client and Server Certificates Genration using EasyRSA
 Mutual TLS Authentication (mTLS)
 The following topic is covered in a theoretical format:
 
-SAML/Active Directory-based authentication.
-TCP vs UDP
+  SAML/Active Directory-based authentication.
+  TCP vs UDP
